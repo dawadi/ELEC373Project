@@ -16,6 +16,6 @@ public class CRC{
     public static void generator(){
         System.out.println("Starting Generator");
         
-        int degree = (int) Math.log(self.generator)
+        int degree = (int) Math.log(self.generator);
     }
 }
